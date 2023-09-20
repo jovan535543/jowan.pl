@@ -90,8 +90,8 @@ const FILE_DOWNLOADS = [
 ]
 
 const PHRASES = [
-  'hello my name is ptoszek, lol',
-  'birds are funny lalalalalalalallalala',
+  'hello my name is sexer, lol',
+  'jowan is funny lalalalalalalallalala',
   'wgl co u cb bo u mn dbr',
   'knuuurrr eksplozja',
   'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
